@@ -1,0 +1,21 @@
+# For detailed discussion of line-endings and .gitattributes see
+# http://stackoverflow.com/questions/170961/whats-the-best-crlf-handling-strategy-with-git
+
+# Set default behaviour, in case users don't have core.autocrlf set.
+* text=auto
+
+# Text files that should be normalized (convert crlf => lf)
+.gitignore    text
+.gitattr*     text
+*.java        text diff=java
+*.md          text
+*.txt         text
+
+# Binary files (left alone)
+*.gif         binary
+*.ico         binary
+*.jpg         binary
+*.pdf         binary
+*.png         binary
+*.xlsb        binary
+*.xlsx        binary
