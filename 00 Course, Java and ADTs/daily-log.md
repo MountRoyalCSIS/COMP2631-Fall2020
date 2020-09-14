@@ -32,3 +32,14 @@ September 8, 2020:
   - `Circle.java`
   - `Program.java`
   - `Areable.java`
+
+
+September 14, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Working through Java notes
+- Went over CheckStyle handout
+- Whiteboard: https://awwapp.com/b/uzo4ui2la2oov/
+- New files:
+  - `Exception.java`
+
