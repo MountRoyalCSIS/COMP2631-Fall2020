@@ -49,3 +49,13 @@ September 15, 2020:
 - On Discord
 - Working to set up CheckStyle and JUnit on everyone's machine.
 - Started Java tracing tutorial
+
+
+September 16, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Working through ADT notes
+- Started hash table notes
+- Whiteboard: https://awwapp.com/b/u4nfnbmconyuq/
+- New files:
+  - `00 Course, Java and ADTs/Adt.java`
