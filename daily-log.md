@@ -4,6 +4,7 @@ September 3, 2020:
 - Working through Course notes
 - Poll: http://etc.ch/j3Pn
 - Whiteboard: https://awwapp.com/b/u68g3eke77ovi/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-03.pdf)
 
 
 September 8, 2020:
@@ -17,6 +18,7 @@ September 9, 2020:
 - Google Meet: https://meet.google.com/psc-wcmg-zoq
 - Working through Java notes
 - Whiteboard: https://awwapp.com/b/usx8cnsest4zf/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-09.pdf)
 - New files:
   - [`HelloWorld.java`](00%20Course,%20Java%20and%20ADTs/HelloWorld.java)
   - [`ProgramTwo.java`](00%20Course,%20Java%20and%20ADTs/ProgramTwo.java)
@@ -40,6 +42,7 @@ September 14, 2020:
 - Working through Java notes
 - Went over CheckStyle handout
 - Whiteboard: https://awwapp.com/b/uzo4ui2la2oov/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-14.pdf)
 - New files:
   - [`Exception.java`](00%20Course,%20Java%20and%20ADTs/Exception.java)
 
@@ -57,5 +60,6 @@ September 16, 2020:
 - Working through ADT notes
 - Started hash table notes
 - Whiteboard: https://awwapp.com/b/u4nfnbmconyuq/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-16.pdf)
 - New files:
   - [`Adt.java`](00%20Course,%20Java%20and%20ADTs/Adt.java)
