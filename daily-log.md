@@ -42,3 +42,10 @@ September 14, 2020:
 - Whiteboard: https://awwapp.com/b/uzo4ui2la2oov/
 - New files:
   - `00 Course, Java and ADTs/Exception.java`
+
+
+September 15, 2020:
+
+- On Discord
+- Working to set up CheckStyle and JUnit on everyone's machine.
+- Started Java tracing tutorial
