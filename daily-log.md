@@ -18,8 +18,8 @@ September 9, 2020:
 - Working through Java notes
 - Whiteboard: https://awwapp.com/b/usx8cnsest4zf/
 - New files:
-  - `00 Course, Java and ADTs/HelloWorld.java`
-  - `00 Course, Java and ADTs/ProgramTwo.java`
+  - [`HelloWorld.java`](00%20Course,%20Java%20and%20ADTs/HelloWorld.java)
+  - [`ProgramTwo.java`](00%20Course,%20Java%20and%20ADTs/ProgramTwo.java)
 
 
 September 8, 2020:
@@ -27,11 +27,11 @@ September 8, 2020:
 - On Discord
 - Working through Java notes
 - New files:
-  - `00 Course, Java and ADTs/StringCompare.java`
-  - `00 Course, Java and ADTs/Shape.java`
-  - `00 Course, Java and ADTs/Circle.java`
-  - `00 Course, Java and ADTs/Program.java`
-  - `00 Course, Java and ADTs/Areable.java`
+  - [`StringCompare.java`](00%20Course,%20Java%20and%20ADTs/StringCompare.java)
+  - [`Shape.java`](00%20Course,%20Java%20and%20ADTs/Shape.java)
+  - [`Circle.java`](00%20Course,%20Java%20and%20ADTs/Circle.java)
+  - [`Program.java`](00%20Course,%20Java%20and%20ADTs/Program.java)
+  - [`Areable.java`](00%20Course,%20Java%20and%20ADTs/Areable.java)
 
 
 September 14, 2020:
@@ -41,7 +41,7 @@ September 14, 2020:
 - Went over CheckStyle handout
 - Whiteboard: https://awwapp.com/b/uzo4ui2la2oov/
 - New files:
-  - `00 Course, Java and ADTs/Exception.java`
+  - [`Exception.java`](00%20Course,%20Java%20and%20ADTs/Exception.java)
 
 
 September 15, 2020:
@@ -58,4 +58,4 @@ September 16, 2020:
 - Started hash table notes
 - Whiteboard: https://awwapp.com/b/u4nfnbmconyuq/
 - New files:
-  - `00 Course, Java and ADTs/Adt.java`
+  - [`Adt.java`](00%20Course,%20Java%20and%20ADTs/Adt.java)
