@@ -62,4 +62,21 @@ September 16, 2020:
 - Whiteboard: https://awwapp.com/b/u4nfnbmconyuq/
   - Or download [PDF version](whiteboard-pdfs/2020-09-16.pdf)
 - New files:
-  - [`Adt.java`](00%20Course,%20Java%20and%20ADTs/Adt.java)
+  - [`Adts.java`](00%20Course,%20Java%20and%20ADTs/Adts.java)
+
+
+September 17, 2020:
+
+- On Discord
+- Finished Java tracing tutorial
+- Answered questions on Assignment 1
+
+
+September 21, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Working through hash table notes
+- Whiteboard: https://awwapp.com/b/uwyaopo1az0lp/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-21.pdf)
+- New files:
+  - [`Linear Probing Psuedocode.md`](01%20Hash%20Tables/Linear%20Probing%20Psuedocode.md)
