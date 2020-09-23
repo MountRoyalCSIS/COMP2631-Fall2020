@@ -7,8 +7,13 @@ Search Function:
 - While `i < SIZE` (we haven't checked all buckets):
   - Check at position `(h + i) % SIZE` for the key
   - If we find an empty bucket
+    - If we have no saved position for adding
+        - Remember this position for adding
     - Return: "not found" and position for adding
-  - If found, we are done, return bucket position
+  - If bucket not deleted and the key is found
+    - Return bucket position
+  - If the bucket is deleted and we have no saved position for adding
+    - Remember this position for adding
   - If not found, set `i` to `i + 1`
 - Return "table full"
 
@@ -32,3 +37,4 @@ Remove Operation:
 - If "not found" or "table full", do nothing
 - If found
   - Set the bucket to "deleted"
+  - Optionally clear key (and value for map)
