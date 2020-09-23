@@ -80,3 +80,17 @@ September 21, 2020:
   - Or download [PDF version](whiteboard-pdfs/2020-09-21.pdf)
 - New files:
   - [`Linear Probing Psuedocode.md`](01%20Hash%20Tables/Linear%20Probing%20Psuedocode.md)
+
+
+September 22, 2020:
+
+- On Discord
+- Went over hash tables tutorial
+
+
+September 23, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Working through hash table notes
+- Whiteboard: https://awwapp.com/b/u4bzobkcq3tdm/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-23.pdf)
