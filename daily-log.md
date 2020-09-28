@@ -91,6 +91,23 @@ September 22, 2020:
 September 23, 2020:
 
 - Google Meet: https://meet.google.com/psc-wcmg-zoq
-- Working through hash table notes
+- Working through hash function notes
 - Whiteboard: https://awwapp.com/b/u4bzobkcq3tdm/
   - Or download [PDF version](whiteboard-pdfs/2020-09-23.pdf)
+
+
+September 24, 2020:
+
+- On Discord
+- Went over asymptotic analysis tutorial
+
+
+September 28, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over a few questions from the asymptotic analysis tutorial
+- Went over resizing hash tables
+- Working through analyzing stacks and queues notes
+- Started speed of arrays and linked lists notes
+- Whiteboard: https://awwapp.com/b/ub1tmcdum0wxq/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-28.pdf)
