@@ -111,3 +111,20 @@ September 28, 2020:
 - Started speed of arrays and linked lists notes
 - Whiteboard: https://awwapp.com/b/ub1tmcdum0wxq/
   - Or download [PDF version](whiteboard-pdfs/2020-09-28.pdf)
+
+
+September 29, 2020:
+
+- On Discord
+- Went over more asymptotic analysis tutorial
+
+
+September 30, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Today is Orange Shirt Day: https://www.orangeshirtday.org/phyllis-story.html
+- Working through analyzing arrays and linked lists as sets/maps
+- Discussed the asymptotic anlysis of hash tables
+- Went over evil applications of asymptotic anlysis
+- Whiteboard: https://awwapp.com/b/ulpynroco8xqe/
+  - Or download [PDF version](whiteboard-pdfs/2020-09-30.pdf)
