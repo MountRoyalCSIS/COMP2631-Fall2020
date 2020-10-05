@@ -128,3 +128,18 @@ September 30, 2020:
 - Went over evil applications of asymptotic anlysis
 - Whiteboard: https://awwapp.com/b/ulpynroco8xqe/
   - Or download [PDF version](whiteboard-pdfs/2020-09-30.pdf)
+
+
+October 1, 2020:
+
+- On Discord
+- Help with Programming Assignment 2
+
+
+October 5, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over tree basics
+- Programming Assignment 2 demo sign-ups open: https://doodle.com/poll/vgxmw2p5dfd5mzex
+- Whiteboard: https://awwapp.com/b/urienkouy4nfi/
+  - Or download [PDF version](whiteboard-pdfs/2020-10-05.pdf)
