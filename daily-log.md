@@ -143,3 +143,27 @@ October 5, 2020:
 - Programming Assignment 2 demo sign-ups open: https://doodle.com/poll/vgxmw2p5dfd5mzex
 - Whiteboard: https://awwapp.com/b/urienkouy4nfi/
   - Or download [PDF version](whiteboard-pdfs/2020-10-05.pdf)
+- New files:
+  - [`tree-pseudocode.md`](02%20Trees/tree-pseudocode.md)
+
+
+October 6, 2020:
+
+- On Discord
+- Demos for Programming Assignment 2
+
+
+October 7, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over binary search tree find and add operations
+- Whiteboard: https://awwapp.com/b/u62yw6jx3vapu/
+  - Or download [PDF version](whiteboard-pdfs/2020-10-07.pdf)
+- New files:
+  - [`bst-pseudocode.md`](02%20Trees/bst-pseudocode.md)
+
+
+October 8, 2020:
+
+- On Discord
+- Demos for Programming Assignment 2

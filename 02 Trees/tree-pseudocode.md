@@ -4,7 +4,7 @@ Height of a tree:
   - Find the height of the child, recursively
   - Take the largest height and add 1
 
-```
+```java
 private int height(TreeNode node) {
     int maxHeight = 0;
 
@@ -31,7 +31,7 @@ e.g. Pre-order
 - do pre-order traversal of left subtree
 - do pre-order traversal of right subtree
 
-```
+```java
 private void preOrder(TreeNode node) {
     if (node == null) {
         return;
