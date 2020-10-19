@@ -167,3 +167,13 @@ October 8, 2020:
 
 - On Discord
 - Demos for Programming Assignment 2
+
+
+October 19, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over binary search tree delete operations
+- Went over BST operation speeds
+- Went over breadth-first traversals
+- Whiteboard: https://awwapp.com/b/uh5qzcd9vuw5y/
+  - Or download [PDF version](whiteboard-pdfs/2020-10-19.pdf)
