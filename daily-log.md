@@ -177,3 +177,22 @@ October 19, 2020:
 - Went over breadth-first traversals
 - Whiteboard: https://awwapp.com/b/uh5qzcd9vuw5y/
   - Or download [PDF version](whiteboard-pdfs/2020-10-19.pdf)
+
+
+October 20, 2020:
+
+- On Discord
+- Went over binary tree tutorial
+
+
+October 21, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over constructing a tree from traversals
+- Went over Assignment 3
+- Went over breadth-first traversal pseudocode
+- Went over non-recursive depth-first traversal pseudocode
+- Whiteboard: https://awwapp.com/b/usqqcco4apwtc/
+  - Or download [PDF version](whiteboard-pdfs/2020-10-21.pdf)
+- Modified files:
+  - [`bst-pseudocode.md`](02%20Trees/bst-pseudocode.md)

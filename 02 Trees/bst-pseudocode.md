@@ -127,3 +127,23 @@ private TreeNode add(TreeNode current, int value) {
     return current;
 }
 ```
+
+Breadth-first Traversal in a BST:
+
+- Create a queue of nodes to visit
+- Add the root node to the queue
+- While the queue is not empty:
+  - Take a node out of the queue, called `current`
+  - Visit `current`
+  - Add left child of `current` to the queue
+  - Add right child of `current` to the queue
+
+Non-recursive depth-first traversal in a BST:
+
+- Create a stack of nodes to visit
+- Add the root node to the stack
+- While the stack is not empty:
+  - Take a node out of the stack, called `current`
+  - Visit `current`
+  - Add right child of `current` to the stack
+  - Add left child of `current` to the stack
