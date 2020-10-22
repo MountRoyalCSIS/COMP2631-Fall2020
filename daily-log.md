@@ -182,7 +182,7 @@ October 19, 2020:
 October 20, 2020:
 
 - On Discord
-- Went over binary tree tutorial
+- Went over tree basics tutorial
 
 
 October 21, 2020:
@@ -196,3 +196,11 @@ October 21, 2020:
   - Or download [PDF version](whiteboard-pdfs/2020-10-21.pdf)
 - Modified files:
   - [`bst-pseudocode.md`](02%20Trees/bst-pseudocode.md)
+
+
+October 22, 2020:
+
+- On Discord
+- Went over binary search tree tutorial
+- New files:
+  - [`bst-tutorial.md`](02%20Trees/bst-tutorial.md)
