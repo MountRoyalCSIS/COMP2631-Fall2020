@@ -204,3 +204,14 @@ October 22, 2020:
 - Went over binary search tree tutorial
 - New files:
   - [`bst-tutorial.md`](02%20Trees/bst-tutorial.md)
+
+
+October 26, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over AVL trees
+- Went over Assignment 3 node class design
+- Whiteboard: https://awwapp.com/b/upjdxgkaugv76/
+  - Or download [PDF version](whiteboard-pdfs/2020-10-26.pdf)
+- New files:
+  - [`A3-node.md`](02%20Trees/A3-node.md)
