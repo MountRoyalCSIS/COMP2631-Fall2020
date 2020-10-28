@@ -215,3 +215,20 @@ October 26, 2020:
   - Or download [PDF version](whiteboard-pdfs/2020-10-26.pdf)
 - New files:
   - [`A3-node.md`](02%20Trees/A3-node.md)
+
+
+October 27, 2020:
+
+- On Discord
+- Went over AVL trees tutorial
+
+
+October 28, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over Red-Black trees
+- Went over Assignment 3 tree class design
+- Whiteboard: https://awwapp.com/b/unoowyzxwuuxn/
+  - Or download [PDF version](whiteboard-pdfs/2020-10-28.pdf)
+- New files:
+  - [`A3-tree.md`](02%20Trees/A3-tree.md)
