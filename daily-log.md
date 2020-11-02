@@ -226,9 +226,31 @@ October 27, 2020:
 October 28, 2020:
 
 - Google Meet: https://meet.google.com/psc-wcmg-zoq
-- Went over Red-Black trees
+- Went over red-black trees
 - Went over Assignment 3 tree class design
 - Whiteboard: https://awwapp.com/b/unoowyzxwuuxn/
   - Or download [PDF version](whiteboard-pdfs/2020-10-28.pdf)
 - New files:
   - [`A3-tree.md`](02%20Trees/A3-tree.md)
+
+
+October 29, 2020:
+
+- On Discord
+- Went over red-black trees tutorial
+
+
+November 2, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over splay trees
+- Went over sorting algorithm terms
+- Whiteboard: https://awwapp.com/b/u4uazhqz9rhho/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-02.pdf)
+- Optional supplementary information:
+  - Cool [splay tree interactive visualizer](https://www.cs.usfca.edu/~galles/visualization/SplayTree.html) (Thanks, Joe!)
+  - Videos on amortized analysis of resizing arrays three ways:
+    - [Aggregate Method](https://www.coursera.org/lecture/data-structures/amortized-analysis-aggregate-method-hzlEI)
+    - [Banker's Method](https://www.coursera.org/lecture/data-structures/amortized-analysis-bankers-method-X6a5I)
+    - [Physicist's Method](https://www.coursera.org/lecture/data-structures/amortized-analysis-physicists-method-TJSBn)
+  - Video on [full analysis of splay trees](https://www.coursera.org/lecture/data-structures/optional-splay-trees-analysis-tRHSO)
