@@ -254,3 +254,11 @@ November 2, 2020:
     - [Banker's Method](https://www.coursera.org/lecture/data-structures/amortized-analysis-bankers-method-X6a5I)
     - [Physicist's Method](https://www.coursera.org/lecture/data-structures/amortized-analysis-physicists-method-TJSBn)
   - Video on [full analysis of splay trees](https://www.coursera.org/lecture/data-structures/optional-splay-trees-analysis-tRHSO)
+
+
+November 3, 2020:
+
+- On Discord
+- Went over splay trees tutorial
+- Whiteboard: https://awwapp.com/b/usdm5nqocjjxu/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-03.pdf)
