@@ -262,3 +262,20 @@ November 3, 2020:
 - Went over splay trees tutorial
 - Whiteboard: https://awwapp.com/b/usdm5nqocjjxu/
   - Or download [PDF version](whiteboard-pdfs/2020-11-03.pdf)
+
+
+November 4, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over the quadratic sorting algorithms:
+  - Bubble sort
+  - Insertion sort
+  - Selection sort
+- Whiteboard: https://awwapp.com/b/uamkdyni0svwy/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-04.pdf)
+
+
+November 5, 2020:
+
+- On Discord
+- Help with Programming Assignment 3
