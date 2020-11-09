@@ -279,3 +279,16 @@ November 5, 2020:
 
 - On Discord
 - Help with Programming Assignment 3
+
+
+November 9, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over remove and high-pass for Programming Assignment 3
+- Went over mergesort
+- Whiteboard: https://awwapp.com/b/ulc8jxe5tucol/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-09.pdf)
+- New files:
+  - [`A3-delete.md`](02%20Trees/A3-delete.md)
+  - [`A3-highPass.md`](02%20Trees/A3-highPass.md)
+  - [`mergesort.md`](03%20Sorting/mergesort.md)
