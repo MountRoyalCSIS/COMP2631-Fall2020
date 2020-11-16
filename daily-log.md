@@ -292,3 +292,27 @@ November 9, 2020:
   - [`A3-delete.md`](02%20Trees/A3-delete.md)
   - [`A3-highPass.md`](02%20Trees/A3-highPass.md)
   - [`mergesort.md`](03%20Sorting/mergesort.md)
+
+
+November 10, 2020:
+
+- On Discord
+- Went over quadratic sorts tutorial
+
+
+November 12, 2020:
+
+- On Discord
+- Went over Programming Assignment 4
+
+
+November 16, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over sample project for Programming Assignment 4
+- Went over quicksort
+- Started discussing trees in arrays
+- Whiteboard: https://awwapp.com/b/up3pekdy0u2uh/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-16.pdf)
+- New files:
+  - [`quicksort.md`](03%20Sorting/quicksort.md)
