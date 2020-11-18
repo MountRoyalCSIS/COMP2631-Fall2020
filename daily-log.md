@@ -316,3 +316,20 @@ November 16, 2020:
   - Or download [PDF version](whiteboard-pdfs/2020-11-16.pdf)
 - New files:
   - [`quicksort.md`](03%20Sorting/quicksort.md)
+
+
+November 17, 2020:
+
+- On Discord
+- Went over merge sort and quicksort tutorial
+
+
+November 18, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over trees in arrays and heaps for heapsort
+- Went over heapsort
+- Whiteboard: https://awwapp.com/b/ue1e6ilvpszhj/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-18.pdf)
+- New files:
+  - [`heapsort.md`](03%20Sorting/heapsort.md)
