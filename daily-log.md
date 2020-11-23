@@ -333,3 +333,23 @@ November 18, 2020:
   - Or download [PDF version](whiteboard-pdfs/2020-11-18.pdf)
 - New files:
   - [`heapsort.md`](03%20Sorting/heapsort.md)
+
+
+November 19, 2020:
+
+- On Discord
+- Went over heapsort tutorial
+
+
+November 23, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Another Poll: http://etc.ch/5BbK
+- Programming Assignment 2 demo sign-ups open: https://doodle.com/poll/zix6x66hpgshzxih
+- Mentioned SPoTs (teacher evaluations) which are available
+  [here](https://evaluate.mtroyal.ca/blue).  More information on these is available on
+  [the MRU website](https://www.mtroyal.ca/AboutMountRoyal/institutional-analysis-planning/StudentPerceptionofTeachingSPoT/index.htm)
+- Started talking about graphs
+- Watched "Sorting Out Sorting" video: https://www.youtube.com/watch?v=HnQMDkUFzh4
+- Whiteboard: https://awwapp.com/b/ubcasvriaxhux/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-23.pdf)
