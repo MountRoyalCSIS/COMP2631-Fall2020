@@ -353,3 +353,26 @@ November 23, 2020:
 - Watched "Sorting Out Sorting" video: https://www.youtube.com/watch?v=HnQMDkUFzh4
 - Whiteboard: https://awwapp.com/b/ubcasvriaxhux/
   - Or download [PDF version](whiteboard-pdfs/2020-11-23.pdf)
+
+
+November 24, 2020:
+
+- On Discord
+- Demos for Programming Assignment 4
+
+
+November 25, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over graph traversals and graph representations
+- Went over Programming Assignment 5
+- Whiteboard: https://awwapp.com/b/u502uodsxjzqp/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-25.pdf)
+- New files:
+  - [`commandline-arguments.md`](04%20Graphs/commandline-arguments.md)
+
+
+November 26, 2020:
+
+- On Discord
+- Demos for Programming Assignment 4
