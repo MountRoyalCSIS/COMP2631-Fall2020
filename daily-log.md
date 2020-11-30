@@ -376,3 +376,12 @@ November 26, 2020:
 
 - On Discord
 - Demos for Programming Assignment 4
+
+
+November 30, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over Prim's and Kruskal's algorithms
+- Talked about greedy algorithms in general
+- Whiteboard: https://awwapp.com/b/usnjxfk8nysqm/
+  - Or download [PDF version](whiteboard-pdfs/2020-11-30.pdf)
