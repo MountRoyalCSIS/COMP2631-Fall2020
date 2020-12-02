@@ -381,7 +381,27 @@ November 26, 2020:
 November 30, 2020:
 
 - Google Meet: https://meet.google.com/psc-wcmg-zoq
-- Went over Prim's and Kruskal's algorithms
+- Went over Prim's and Kruskal's algorithms for minimum cost spanning trees
 - Talked about greedy algorithms in general
 - Whiteboard: https://awwapp.com/b/usnjxfk8nysqm/
   - Or download [PDF version](whiteboard-pdfs/2020-11-30.pdf)
+
+
+December 1, 2020:
+
+- On Discord
+- Went over graph representations and traversals tutorial
+
+
+December 2, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over Dijkstra's algorithm for shortest path
+- Whiteboard: https://awwapp.com/b/u1vsqkheq5ns6/
+  - Or download [PDF version](whiteboard-pdfs/2020-12-02.pdf)
+
+
+December 3, 2020:
+
+- On Discord
+- Went over minimum cost spanning tree and shortest path tutorial
