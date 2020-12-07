@@ -405,3 +405,17 @@ December 3, 2020:
 
 - On Discord
 - Went over minimum cost spanning tree and shortest path tutorial
+
+
+December 7, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over machine learning
+- Whiteboard: https://awwapp.com/b/uzzqfaedeqnf0/
+  - Or download [PDF version](whiteboard-pdfs/2020-12-07.pdf)
+- Links from todays lecture:
+  - Google's Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course
+  - Google's Quick, Draw! game, an example of online learning: https://quickdraw.withgoogle.com/
+  - Amazon Comprehend for sentiment analysis: https://aws.amazon.com/getting-started/hands-on/analyze-sentiment-comprehend/
+  - Google Meet transcript service (thanks, Joe): https://tactiq.io/
+  - Recent article on AI biases in image labels: https://arstechnica.com/science/2020/11/when-ai-sees-a-man-it-thinks-official-a-woman-smile/
