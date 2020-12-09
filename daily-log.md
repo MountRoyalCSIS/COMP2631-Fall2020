@@ -419,3 +419,17 @@ December 7, 2020:
   - Amazon Comprehend for sentiment analysis: https://aws.amazon.com/getting-started/hands-on/analyze-sentiment-comprehend/
   - Google Meet transcript service (thanks, Joe): https://tactiq.io/
   - Recent article on AI biases in image labels: https://arstechnica.com/science/2020/11/when-ai-sees-a-man-it-thinks-official-a-woman-smile/
+
+
+December 8, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Went over final exam details
+
+
+December 9, 2020:
+
+- Google Meet: https://meet.google.com/psc-wcmg-zoq
+- Reviewed Programming Assignment 5, AVL trees and Red-Black trees
+- Whiteboard: https://awwapp.com/b/u8755rhjsaogk/
+  - Or download [PDF version](whiteboard-pdfs/2020-12-09.pdf)
